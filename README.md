@@ -7,7 +7,7 @@ The original idea for this simple application is to created a personalized, cost
 in UC San Diego during the winter of 2017 ( course name: **CSE 101-Software Engineering**). 
 
 The old project was a team effort that was written in **Java** based on **Android** devices only. This time, I decided to go solo and 
-re-create the app with **Swift 3.0** and **Xcode 8.3**  on **iOS** mobile devices. I am adding new features as well as some enhancements for the previously existing functions to the application. The application is expected to be more powerful and more user-friendly than ever,
+re-create the app with **Swift 3.0** and **Xcode 8.3**  on **iOS** mobile devices. I am adding new features as well as some enhancements to the previously existing functions to the application. The application is expected to be more powerful and more user-friendly than ever,
 
 This project is intended to help me learn Swift  programming language, and more importantly, the ins and outs of iOS app 
 development, including but not limited to OOP design pattern, prototyping, Auto Layout, animation, adaptive design, Beta testing, MapKit, CloudKit, Core Data, launching on App Store, etc.
