@@ -18,3 +18,9 @@ Programming with Swift" and I do not own the copyrights of them. However, the fi
 
 The following screenshots demostrate all the features that have been successfully implemented.
 
+<img width="372" alt="2017-09-05 05 38 23 pm" src="https://user-images.githubusercontent.com/19476654/30089465-e6c7e5fc-9261-11e7-9f06-b760cd4779b8.png">
+<img width="376" alt="2017-09-05 05 38 38 pm" src="https://user-images.githubusercontent.com/19476654/30089471-ed0f5fbc-9261-11e7-8a3a-cc1aea682679.png">
+<img width="638" alt="2017-09-05 05 40 38 pm" src="https://user-images.githubusercontent.com/19476654/30089472-f007649e-9261-11e7-94e2-453ae16d3511.png">
+<img width="635" alt="2017-09-05 05 42 58 pm" src="https://user-images.githubusercontent.com/19476654/30089478-f5acf6de-9261-11e7-99ba-ebe7a6260e7d.png">
+<img width="629" alt="2017-09-05 05 43 28 pm" src="https://user-images.githubusercontent.com/19476654/30089480-f798f1aa-9261-11e7-8438-0ea8340f6510.png">
+<img width="622" alt="2017-09-05 05 44 02 pm" src="https://user-images.githubusercontent.com/19476654/30089482-f9d8193c-9261-11e7-9289-d6089a9feeab.png">
