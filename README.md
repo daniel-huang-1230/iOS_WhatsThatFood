@@ -10,8 +10,7 @@ The old project was a team effort that was written in Java based on Android devi
 re-create the app with Swift 3.0 and Xcode 8.3 on iOS mobile devices. 
 
 This project is intended to help me learn Swift programming language, and more importantly, the ins and outs of iOS app 
-development, including but not limited to OOP design pattern, prototyping, Auto Layout, Beta testing, MapKit, CloudKit, Core 
-Data, launching on App Store, etc.
+development, including but not limited to OOP design pattern, prototyping, Auto Layout, animation, adaptive design, Beta testing, MapKit, CloudKit, Core Data, launching on App Store, etc.
 
 Note that the current UI design as well as most predefined images are from the book I am recently reading, "Beginning iOS 10 
 Programming with Swift" and I do not own the copyrights of them. However, the final product will all be work of my own.
