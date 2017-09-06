@@ -1,4 +1,4 @@
-# iOS_WhatsThatFood
+# iOS_WhatsThatFood-written in Swift
 WhatsThatFood is my first personal iOS project. Scheduled to launch in appStore in mid/late September, 2017. The final official
 name of of the app may change.
 
