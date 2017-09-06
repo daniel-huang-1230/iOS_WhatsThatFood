@@ -13,8 +13,8 @@ This project is intended to help me learn Swift  programming language, and more 
 development, including but not limited to OOP design pattern, prototyping, Auto Layout, animation, adaptive design, Beta testing, MapKit, CloudKit, Core Data, launching on App Store, etc.
 
 Note that the current UI design as well as most default restaurant images are from the book I am recently reading, "*Beginning iOS 10 Programming with Swift*" by Simon Ng and I do not own the copyrights of them. The final product will, naturally, contain only work of my own.
-# Swift
-WhatsThatFood is written in Swift 3.0 
+# Lauguage
+WhatsThatFood is written in **Swift**
 # Screenshots of the current progress
 The following screenshots demostrate all the features that have been successfully implemented.
 
