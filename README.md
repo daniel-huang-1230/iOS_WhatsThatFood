@@ -18,7 +18,7 @@ Note that the current UI design as well as most default restaurant images are fr
 The following screenshots demostrate all the features that have been successfully implemented.
 
 
-
+<img width="624" alt="2017-09-05 05 55 00 pm" src="https://user-images.githubusercontent.com/19476654/30089722-62d8eb86-9263-11e7-9849-b7dedc6464d0.png">
 <img width="372" alt="2017-09-05 05 38 23 pm" src="https://user-images.githubusercontent.com/19476654/30089465-e6c7e5fc-9261-11e7-9f06-b760cd4779b8.png">
 
 
