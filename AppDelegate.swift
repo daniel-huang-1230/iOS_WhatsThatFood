@@ -1,6 +1,5 @@
 //
 //  AppDelegate.swift
-//  FoodPin
 //
 //  Created by Daniel Huang on 21/7/2017.
 //  Copyright © 2016 AppCoda. All rights reserved.
