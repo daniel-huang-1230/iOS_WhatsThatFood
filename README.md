@@ -34,7 +34,7 @@ The following screenshots demostrate all the features that have been successfull
 <img width="622" alt="2017-09-05 05 44 02 pm" src="https://user-images.githubusercontent.com/19476654/30089482-f9d8193c-9261-11e7-9289-d6089a9feeab.png">
 
 # License
-[Apache License 2.0] (https://choosealicense.com/licenses/apache-2.0/)
+[Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) 
 # Author
 
 [@Daniel Huang](https://www.linkedin.com/in/daniel-huang-443546115/)
